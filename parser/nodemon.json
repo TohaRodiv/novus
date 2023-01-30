@@ -1,0 +1,12 @@
+{
+	"verbose": false,
+	"ignore": [],
+	"execMap": {
+	  "js": "node index.js"
+	},
+	"watch": [
+		"index.js",
+		"src/**/*.js"
+	],
+	"ext": "js"
+  }
